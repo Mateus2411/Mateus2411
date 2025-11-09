@@ -14,7 +14,7 @@
 - Estudante do Instituto Federal (<strong>IF</strong>), apaixonado por tecnologia e programação.<br>
 - Curioso e persistente: gosto de explorar novas linguagens, frameworks e conceitos.<br>
 - Sempre em busca de desafios que me permitam evoluir como desenvolvedor.<br>
-- Projetos vão do <strong>front-end</strong> simples até lógicas mais complexas em <strong>JavaScript, Python e HTML/CSS</strong>.
+- Projetos vão do <strong>front-end</strong> simples e futuramente até lógicas mais complexas em <strong>JavaScript, Python e HTML/CSS</strong>.
 </p>
 
 <h3 align="left">🌟 Projetos em Destaque</h3>
