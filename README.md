@@ -5,7 +5,7 @@
 <p align="left">Atualmente, sou estudante no <strong>IF</strong> e estou explorando o mundo da programação, criando projetos cada vez mais desafiadores e interessantes. Meu objetivo é aprender de forma prática, desenvolver habilidades em diferentes linguagens e, quem sabe, construir algo que faça diferença no futuro.</p>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mateus2411&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph" /> <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mateus2411&radius=16&theme=react&area=true&order=5&custom_title=Atividade%20ao%20longo%20do%20Tempo" height="300" alt="activity-graph graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mateus2411&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2&custom_title=Linguagens%20Presentes" height="150" alt="languages graph"  />
 </div>
 
