@@ -23,7 +23,6 @@
 <p align="left">
 - Projeto feito em <strong>HTML, CSS e JavaScript</strong><br>
 - Permite trocar entre português, inglês e espanhol<br>
-- Desenvolve lógica de programação e manipulação de DOM
 </p>
 
 <h4 align="left">2. Lista De Afazeres Interativa</h4>
