@@ -6,7 +6,7 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mateus2411&radius=16&theme=react&area=true&order=5&custom_title=Atividade%20ao%20longo%20do%20Tempo" height="300" alt="activity-graph graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus2411&layout=donut&theme=dark&exclude_repo=programacao-I" height="300" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus2411&layout=donut&theme=dark&exclude_repo=Programacao-1" height="300" alt="Top Langs" />
 </div>
 <h3 align="left">💻 Sobre Mim</h3>
 
