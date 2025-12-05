@@ -8,8 +8,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mateus2411&radius=16&theme=react&area=true&order=5&custom_title=Atividade%20ao%20longo%20do%20Tempo" height="300" alt="activity-graph graph" />
   <br>
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mateus2411&theme=github_dark" 
-    height="200" 
+    src="[https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mateus2411&theme=github_dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus2411&layout=donut&langs_count=8&theme=github_dark)" 
+    height="300" 
     alt="Top languages (donut)" 
   /></div>
   <br>
