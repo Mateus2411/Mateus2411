@@ -13,12 +13,6 @@
     alt="Top languages (donut)" 
   />
   <br><br>
-
-  <!-- 📊 GitHub Stats -->
-  <img 
-    src="https://githubstats.com.br/api/stats?username=Mateus2411&theme=graywhite&showBorder=true&language=pt&type=stats" 
-    alt="GitHub Stats" 
-  />
 </div>
 
 <br>
