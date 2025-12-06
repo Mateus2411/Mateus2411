@@ -9,7 +9,7 @@
   <br>
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mateus2411&theme=github_dark" 
-    height="200" 
+    height="400" 
     alt="Top languages (donut)" 
   />
   <br><br>
