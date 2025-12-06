@@ -7,13 +7,22 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mateus2411&radius=16&theme=react&area=true&order=5&custom_title=Atividade%20ao%20longo%20do%20Tempo" height="300" alt="activity-graph graph" />
   <br>
-    <img 
+  <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mateus2411&theme=github_dark" 
     height="200" 
     alt="Top languages (donut)" 
   />
+  <br><br>
+
+  <!-- 📊 GitHub Stats -->
+  <img 
+    src="https://githubstats.com.br/api/stats?username=Mateus2411&theme=graywhite&showBorder=true&language=pt&type=stats" 
+    alt="GitHub Stats" 
+  />
 </div>
-  <br>
+
+<br>
+
 <h3 align="left">💻 Sobre Mim</h3>
 
 <p align="left">
