@@ -14,7 +14,9 @@
   />
   <br><br>
 </div>
-
+<!--<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=davi-prussek&theme=transparent" height="400px"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=davi-prussek&theme=transparent&exclude_repo=PI_CuidadosDeUmProgramador" height="400"/>
+-->
 <br>
 
 <h3 align="left">💻 Sobre Mim</h3>
