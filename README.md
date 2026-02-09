@@ -47,7 +47,7 @@
 
 <h5 align="left">Caso encontre algum erro ou saiba uma forma melhor de fazer, contate-me 🔥💻</h5>
 
-<img src="https://raw.githubusercontent.com/Mateus2411/Mateus2411/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Mateus2411/Mateus2411/output/snake.svg" alt="Snake animation" style="width:100%"/>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
