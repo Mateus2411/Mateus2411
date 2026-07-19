@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="490px" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #953800;}
+.value {fill: #0a3069;}
+.addColor {fill: #1a7f37;}
+.delColor {fill: #cf222e;}
+.cc {fill: #c2cfde;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="985px" height="530px" fill="#ffffff" rx="15"/>
+<text x="15" y="30" fill="#24292f">
+  <tspan x="15" y="30">     ###################</tspan>
+  <tspan x="15" y="50">   ##..#############..##</tspan>
+  <tspan x="15" y="70">  #....#############....#</tspan>
+  <tspan x="15" y="90"> #......###########......#</tspan>
+  <tspan x="15" y="110"> #......##.......##......#</tspan>
+  <tspan x="15" y="130"> #......##..##...##......#</tspan>
+  <tspan x="15" y="150"> #......##..##...##......#</tspan>
+  <tspan x="15" y="170"> #......##..##...##......#</tspan>
+  <tspan x="15" y="190"> #......##..##...##......#</tspan>
+  <tspan x="15" y="210"> #......##.......##......#</tspan>
+  <tspan x="15" y="230">  #....#############....#</tspan>
+  <tspan x="15" y="250">   ##..#############..##</tspan>
+  <tspan x="15" y="270">     ###################</tspan>
+  <tspan x="15" y="290">         ##       ##</tspan>
+  <tspan x="15" y="310">         ##       ##</tspan>
+  <tspan x="15" y="330">       #############</tspan>
+  <tspan x="15" y="350">      ###############</tspan>
+  <tspan x="15" y="370">      ###############</tspan>
+  <tspan x="15" y="390">       #############</tspan>
+  <tspan x="15" y="410">         ##       ##</tspan>
+  <tspan x="15" y="430">         ##       ##</tspan>
+</text>
+<text x="370" y="30" fill="#24292f">
+<tspan x="395" y="30">Mateus2411</tspan> -————————————————————————————————————————-—-
+<tspan x="370" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Windows 10 / Linux</tspan>
+<tspan x="370" y="70" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">IFC Araquari / 2INFO1</tspan>
+<tspan x="370" y="90" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">Information Systems Student</tspan>
+<tspan x="370" y="110" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> .................................. </tspan><tspan class="value">VSCode, Hermes, Codex</tspan>
+<tspan x="370" y="130" class="cc">. </tspan>
+
+<tspan x="370" y="150" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">Java, Python, JavaScript, Vue</tspan>
+<tspan x="370" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Web</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">HTML, CSS, Node.js</tspan>
+<tspan x="370" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">Portuguese (Brazil)</tspan>
+<tspan x="370" y="210" class="cc">. </tspan>
+
+<tspan x="370" y="230" class="cc">. </tspan><tspan class="key">Learning</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">Java, Django, Vue.js</tspan>
+<tspan x="370" y="250" class="cc">. </tspan><tspan class="key">Hobbies</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">Coding, Coffee, Open Source</tspan>
+
+<tspan x="370" y="290">- Contact</tspan> -——————————————————————————————————————————————-—-
+<tspan x="370" y="310" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">mateushenriquedasilva2411@gmail.com</tspan>
+<tspan x="370" y="330" class="cc">. </tspan><tspan class="key">Instagram</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">@mateus_.hs</tspan>
+
+<tspan x="370" y="370">- GitHub Stats</tspan> -—————————————————————————————————————————-—-
+<tspan x="370" y="390" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">28</tspan> | <tspan class="key">Stars</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">6</tspan>
+<tspan x="370" y="410" class="cc">. </tspan><tspan class="key">Followers</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">15</tspan> | <tspan class="key">Following</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">13</tspan>
+<tspan x="370" y="430" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">~400+</tspan> | <tspan class="key">Contrib</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">28 repos</tspan>
+</text>
+</svg>
